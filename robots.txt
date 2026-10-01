@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shermanoaksdentalgroup.com/sitemap.xml
